@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { motion, useScroll, useMotionValueEvent } from 'framer-motion';
-import { skills, categories } from '../utils/skillData';
+import { skills, categories } from '../Utils/skillData';
 import AbstractBackground from './AbstractBackground';
 
 const Skills = () => {
